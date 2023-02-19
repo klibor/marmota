@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//https://go.dev/ref/spec#Types
 type hotdog int
 
 var b hotdog = 10
